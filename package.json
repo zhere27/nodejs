@@ -1,0 +1,19 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "sample",
+  "main": "main.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erwin Alcantara <erwin.alcantara@hotmail.ph>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "github.com/zhere27/nodejs"
+  }
+}
